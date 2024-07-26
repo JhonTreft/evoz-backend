@@ -1,0 +1,39 @@
+# Archivos y directorios de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+venv/
+.env/
+*.sqlite3
+
+# Archivos de configuración
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+.DS_Store
+
+# Archivos generados por Django
+db.sqlite3
+*.sqlite3
+media/
+
+# Archivos de configuración de Django
+*.env
+
+# Archivos de configuración del IDE
+.vscode/
+3v0z/
+node_modules/
+
+# Archivos generados por herramientas de compilación
+*.sass-cache
+*.py[cod]
+
+# Arc
